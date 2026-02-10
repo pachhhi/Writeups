@@ -1,7 +1,7 @@
-==Platform:== Hack The Box
-==Machine:== CodePartTwo (https://app.hackthebox.com/machines/CodePartTwo)
-==Difficult:== Easy
-==OS:== Linux
+**Platform:** Hack The Box
+**Machine:** CodePartTwo (https://app.hackthebox.com/machines/CodePartTwo)
+**Difficult:** Easy
+**OS:** Linux
 
 ---
 ## RESUMEN
