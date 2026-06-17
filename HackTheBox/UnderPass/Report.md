@@ -50,7 +50,7 @@ I tried log with default credentials in this route: http://underpass.htb/dalorad
 
 in the http://underpass.htb/daloradius/app/operators/home-main.php i found this dashboard
 
-![1](HackTheBox/UnderPass/IMGS/1.png)
+![1](IMGS/1.png)
 
 inside, in the users section obtain:
 
@@ -59,7 +59,7 @@ Password: 412DD4759978ACFCC81DEAB01B382403
 
 Making more investigation i get this link http://underpass.htb/daloradius/app/operators/config-db.php with: 
 
-![2](HackTheBox/UnderPass/IMGS/2.png)
+![2](IMGS/2.png)
 
 I cracked the hash (412DD4759978ACFCC81DEAB01B382403) in CrackStation and i get: underwaterfriends 
 
