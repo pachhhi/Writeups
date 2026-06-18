@@ -8,7 +8,8 @@ Writeups educativos de **Hack The Box / TryHackMe / PicoCTF** enfocados en **met
 
 ### Hack The Box
 - [CodePartTwo (Easy, Linux)](HackTheBox/CodePartTwo/README.md)
-- [UnderPass (Medium, Linux](HackTheBox/UnderPass/Report.md)
+- [UnderPass (Medium, Linux)](HackTheBox/UnderPass/Report.md)
+-[TwoMillion (Medium, Linux)](HackTheBox/TwoMillion/REPORTE.md)
 
 ### TryHackMe
 - (próximamente)
